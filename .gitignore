@@ -1,0 +1,9 @@
+# Local vendor. Remove when ready to vendor dependencies.
+/vendor/
+
+# Local
+.idea
+tags
+*.swp
+.vscode
+dist
